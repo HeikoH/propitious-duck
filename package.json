@@ -1,0 +1,9 @@
+{
+    "name": "propitious-duck",
+    "devDependencies": {
+        "typescript": "^1.5.3"
+    },
+    "scripts": {
+        "ts": "node_modules/typescript/bin/tsc"
+    }
+}
